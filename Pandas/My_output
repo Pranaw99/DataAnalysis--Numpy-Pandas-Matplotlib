@@ -1,0 +1,6 @@
+hash,company_id,company_name,title,created_date,last_checked_date,city,state,zip,country,category_id,category_name
+000001a5f7022973b3d8b7b2c3e24082,420,SAIC,Sr. Environmental Engineer,2008-12-01,2008-12-01,Harrisburg,PA,17106.0,US,21,"Agriculture, Forestry & Fishing"
+000005782bc4ce081dd656ee55b405b2,17976,Emcor,Carpenter Journeyman,2010-03-17,2010-03-17,U S A F Academy,CO,80841.0,US,30,Construction & Skilled Trade
+000010b1e01a832cd8e725f9552ff9ba,9208,Wyndham Hotels and Resorts  LLC,Guest Services Associate - Wyndham Arrow Point Resort,2015-05-28,2015-05-28,Harrison,ID,83833.0,US,70,Concierge & Guest Services
+000011518dfb25f79fdddc85376099e2,12084,Fluor Corporation,Principal HR/IR Technician,2016-06-03,2016-07-28,Waynesboro,GA,30830.0,US,77,Human Resources
+000014a0c96182242b75a1ba47a1b582,420,SAIC,Test Engineer (OS),2008-12-15,2008-12-15,Columbia,MD,21044.0,US,43,Engineering & Architecture
